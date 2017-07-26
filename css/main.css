@@ -1,0 +1,119 @@
+.homeStyle {
+  background-image: url(../img/slide1.jpg);
+  height: 800px; }
+  .homeStyle .topNavBar {
+    height: 60px;
+    color: white; }
+  .homeStyle .navBarBrand {
+    margin-top: 8px; }
+  .homeStyle .titleImgage {
+    color: white;
+    margin-top: 250px;
+    margin-bottom: 10px; }
+  .homeStyle p {
+    color: white;
+    font-weight: 55px; }
+  .homeStyle .btn {
+    background: #d68f00;
+    width: 200px;
+    height: 40px;
+    border-radius: 40px; }
+  .homeStyle .btn:hover {
+    transition: 0.7s;
+    background: #c24400; }
+
+.aboutStyle {
+  height: 900px;
+  margin: 70px; }
+  .aboutStyle .col-md-3 {
+    padding: 20px; }
+  .aboutStyle img {
+    width: 100%; }
+  .aboutStyle .blogs {
+    margin-top: 100px; }
+    .aboutStyle .blogs img {
+      width: 50%; }
+  .aboutStyle h1 {
+    font-size: 15px; }
+  .aboutStyle .col-md-3:hover {
+    background: #f7f7f7; }
+
+.parallax {
+  height: 400px;
+  background: url(../img/parallax1.jpg) no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  color: white; }
+  .parallax h1 {
+    margin-top: 120px;
+    margin-bottom: 20px; }
+  .parallax p {
+    margin-bottom: 20px; }
+  .parallax .btn {
+    background: #d68f00;
+    width: 200px;
+    height: 40px;
+    border-radius: 40px; }
+  .parallax .btn:hover {
+    transition: 0.7s;
+    background: #c24400; }
+
+.menu {
+  height: 800px;
+  margin-top: 50px; }
+  .menu p {
+    font-size: 18px; }
+  .menu .btn {
+    border-radius: 40px;
+    height: 40px;
+    color: black;
+    background: white; }
+  .menu .btn:hover {
+    transition: 0.7s;
+    background: #d68f00;
+    color: white; }
+  .menu img {
+    width: 100%; }
+  .menu .col-lg-4 {
+    margin-top: 50px;
+    float: left; }
+    .menu .col-lg-4 h1 {
+      text-align: left;
+      font-size: 15px; }
+    .menu .col-lg-4 p {
+      text-align: left; }
+
+.todaysSpecial {
+  margin-top: 50px; }
+  .todaysSpecial h1 {
+    margin-bottom: 10px; }
+  .todaysSpecial .col-lg-3 {
+    border: 1px solid black;
+    padding: 20px; }
+    .todaysSpecial .col-lg-3 img {
+      width: 80%;
+      border-radius: 50%; }
+    .todaysSpecial .col-lg-3 h1 {
+      font-size: 18px; }
+
+.reservation {
+  margin-top: 50px;
+  height: 600px;
+  background: url(../img/parallax2.jpg) no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  color: white; }
+  .reservation .col-lg-8 .col-md-12 input {
+    width: 100%;
+    margin: 10px;
+    height: 40px;
+    color: black; }
+  .reservation .col-lg-8 .col-md-12 textarea {
+    width: 100%;
+    height: 120px;
+    margin: 10px; }
+  .reservation .col-md-12 .col-md-6 input {
+    width: 100;
+    color: black; }
+
+/*# sourceMappingURL=main.css.map */
